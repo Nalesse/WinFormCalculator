@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Data;
-using System.Linq;
 using System.Windows.Forms;
 
 namespace BetterCalculator
@@ -13,11 +12,6 @@ namespace BetterCalculator
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
 
         /// <summary>
