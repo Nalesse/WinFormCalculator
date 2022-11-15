@@ -252,6 +252,7 @@
             this.ExpressionTextBox.Location = new System.Drawing.Point(112, 52);
             this.ExpressionTextBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.ExpressionTextBox.Name = "ExpressionTextBox";
+            this.ExpressionTextBox.ReadOnly = true;
             this.ExpressionTextBox.Size = new System.Drawing.Size(388, 26);
             this.ExpressionTextBox.TabIndex = 18;
             // 
