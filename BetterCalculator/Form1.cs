@@ -66,7 +66,5 @@ namespace BetterCalculator
 
             ExpressionTextBox.Text = expression;
         }
-
-        
     }
 }
